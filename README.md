@@ -23,7 +23,7 @@ Streamlit
 Google Colab
 Dataset
 
-The model was trained on the Monkeypox Skin Image Dataset from Kaggle.
+The model was trained on the Monkeypox Skin Image Dataset from Kaggle https://www.kaggle.com/datasets/dipuiucse/monkeypoxskinimagedataset
 
 Project Workflow
 Data Collection
@@ -36,6 +36,10 @@ Streamlit Deployment
 Results
 
 The VGG16 Transfer Learning model significantly outperformed the Custom CNN model, achieving 91.15% validation accuracy, demonstrating the effectiveness of transfer learning on limited medical image datasets.
+<img width="582" height="455" alt="image" src="https://github.com/user-attachments/assets/64598ef1-c471-46e4-9678-f528019872a1" />
+<img width="573" height="455" alt="image" src="https://github.com/user-attachments/assets/e909dd82-88a7-4ac6-9fbe-b0f8ec4eb0d6" />
+
+
 
 Disclaimer
 
