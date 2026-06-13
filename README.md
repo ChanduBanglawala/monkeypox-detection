@@ -91,3 +91,9 @@ Then run:
 streamlit run app.py
 ```
 
+Output Results:
+Result for normal person
+<img width="1366" height="943" alt="image" src="https://github.com/user-attachments/assets/fcf27b1d-5ce8-4212-b4ca-5af905593af3" />
+
+Result for monkeypox person
+<img width="1366" height="943" alt="monkey pox result" src="https://github.com/user-attachments/assets/4ec40a89-2073-4576-8a91-9cc7f312f431" />
