@@ -53,7 +53,7 @@ The trained model file is not included in this repository because it exceeds Git
 
 Download the trained VGG16 model from Google Drive:
 
-https://drive.google.com/file/d/1rEJSN7wjqt2baztmEmbblgYFxMTzJ3ep/view?usp=sharing
+[https://drive.google.com/file/d/1rEJSN7wjqt2baztmEmbblgYFxMTzJ3ep/view?usp=sharing](https://drive.google.com/file/d/1qwum--of28CM2Bqn6msVJLwXVMXCGic1/view?usp=sharing)
 
 ### About the Model File
 
