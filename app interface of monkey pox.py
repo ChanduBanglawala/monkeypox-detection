@@ -4,7 +4,7 @@ from PIL import Image
 import numpy as np
 
 # Load model
-model = tf.keras.models.load_model("C:\\Users\\neha\\Downloads\\monkeypox_vgg16.keras")
+model = tf.keras.models.load_model("C:\\Users\\Downloads\\monkeypox_vgg16.keras")
 
 # Title
 st.set_page_config(page_title="Monkeypox Detection")
