@@ -75,7 +75,7 @@ After downloading the model file, place it in the project root directory:
 ```
 Monkeypox-Detection/
 │
-├── monkeypox interface.py
+├── app interface of monkey pox.py
 ├── monkeypox_vgg16.keras
 ├── requirements.txt
 └── README.md
